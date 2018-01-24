@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://github.com/liu119631/"/>
-  <updated>2018-01-24T12:41:48.650Z</updated>
+  <updated>2018-01-24T14:37:02.203Z</updated>
   <id>https://github.com/liu119631/</id>
   
   <author>
@@ -17,22 +17,20 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>这是我的第一篇博客</title>
-    <link href="https://github.com/liu119631/2018/01/23/%E8%BF%99%E6%98%AF%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/"/>
-    <id>https://github.com/liu119631/2018/01/23/这是我的第一篇博客/</id>
-    <published>2018-01-22T22:31:52.000Z</published>
-    <updated>2018-01-24T12:41:48.650Z</updated>
+    <title>使用Intellij中的Spring Initializr来快速构建Spring Boot工程</title>
+    <link href="https://github.com/liu119631/2018/01/24/%E8%BF%99%E6%98%AF%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/"/>
+    <id>https://github.com/liu119631/2018/01/24/这是我的第一篇博客/</id>
+    <published>2018-01-23T22:31:52.000Z</published>
+    <updated>2018-01-24T14:37:02.203Z</updated>
     
-    <content type="html"><![CDATA[<blockquote><p>test</p></blockquote>]]></content>
+    <content type="html"><![CDATA[<blockquote><p>New—Project<br>可以看到图所示的创建功能窗口。其中Initial Service Url指向的地址就是Spring官方提供的Spring Initializr工具地址，所以这里创建的工程实际上也是基于它的Web工具来实现的,也可以将此地址copy到浏览器上试一下,会生成spring boot的项目工程下载</p><p><img src="./_image/1282595-20180113153204879-180529115.png" alt=""><br>Next,下图可以看到可以编辑我们所创建的工程信息,type类型,language语言等等..</p></blockquote>]]></content>
     
     <summary type="html">
     
       
       
         &lt;blockquote&gt;
-&lt;p&gt;test&lt;/p&gt;
-&lt;/blockquote&gt;
-
+&lt;p&gt;New—Project&lt;br&gt;可以看到图所示的创建功能窗口。其中Initial Service Url指向的地址就是Spring官方提供的Spring Initializr工具地址，所以这里创建的工程实际上也是基于它的Web工具来实现的,也可以将此
       
     
     </summary>
