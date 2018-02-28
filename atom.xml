@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>MyBlog</title>
   
-  <subtitle>心有猛虎 细嗅蔷薇</subtitle>
+  
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://github.com/liu119631/"/>
